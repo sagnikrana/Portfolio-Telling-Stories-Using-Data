@@ -1,5 +1,6 @@
 # Sagnik Rana Portfolio
 This repository contains the collective work which is currently being performed in the course 'Telling Stories with Data'
+![dsfsd](https://giphy.com/gifs/S6quXCKBniP8GbLDtu)
 
 
 # About Me
