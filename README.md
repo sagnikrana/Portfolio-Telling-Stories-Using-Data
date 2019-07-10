@@ -16,10 +16,12 @@ Here is the vizualisation for one of my projects, where I utilized 3-D cluster m
 
 # Data critique - British Political situation:
 
-In this assignment, we are critiquing this [article](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/The%20metamorphosis%20-%20The%20Labour%20Party%20.pdf1) where the current situation about british politics has been discussed. As per the good charts book, I have re-designed the graph and produced this graph [here](https://www.datawrapper.de/_/HVp6G/)
+In this assignment, we are critiquing this [article](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/The%20metamorphosis%20-%20The%20Labour%20Party%20.pdf) where the current situation about british politics has been discussed. As per the good charts book, I have re-designed the graph and produced this graph [here](https://www.datawrapper.de/_/HVp6G/)
 <br>
 
 ![viz](Datawrapper.jpg)
 
 Improvements:
 The main focus has been put over Jeremy Corbyn and how much importance he has over all major parties. My new diagram is small, which will allow it to appear in media(such as newspaper). The political parties are separated from the politicians which gives a good edge to the readers. The numbers are present, which will further help us to judge the metrics.
+<br>
+The detailed analysis could be seen [here](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/Sagnik%20Rana%20-%20Critique%20%231_%20Economist%20bar%20chart%20(The%20Good%20Charts%20Matrix).xlsx?raw=true)
