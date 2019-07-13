@@ -30,8 +30,11 @@ The main focus has been put over Jeremy Corbyn and how much importance he has ov
 The detailed analysis could be seen [here](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/Sagnik%20Rana%20-%20Critique%20%231_%20Economist%20bar%20chart%20(The%20Good%20Charts%20Matrix).xlsx?raw=true)
 
 <hr>
+<hr>
 # Assignment-2:
 
 # The Overcrowding and Prolonged Detention of Children and Adults in the Rio Grande Valley(Reporter's perspective):
 
+The condition in the CBP premises in Rio Grande Valley is getting worse at an alarming rate. There is a serious overcrowding and prolonged detention of unaccompanied alien children (UACs), families, and single adults that require immediate attention. According to the sources, there is an increase in about 124% in the numbers since the previous year.
 
+<iframe title="Rio Grande Valley Sector Border Patrol Apprehensions" aria-label="Stacked Column Chart" id="datawrapper-chart-BwkUu" src="//datawrapper.dwcdn.net/BwkUu/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="467"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
