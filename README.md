@@ -42,3 +42,7 @@ The condition in the CBP premises in Rio Grande Valley is getting worse at an al
 On June 10 2019, Border Patrol was holding about 8,000 detainees in custody with 3,400 held longer than the 72 hours. Of those 3,400 detainees, Border Patrol held 1,500 for more than 10 days.This figure clearly violates the TEDS standards.
 
 ![detainee_alluvial](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/detainee.svg)
+
+Things are getting out of hand for children as Border Patrol’s custody data indicates that 826 (31 percent) of the 2,669 children at these facilities had been held longer than the 72 hours. 1,031 UACs held at the Centralized Processing Center in McAllen, TX, 806 had already been processed and were awaiting transfer to HHS custody. Of the 806 that were already processed, 165 had been in custody longer than a week.
+
+![UAC_alluvial](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/UAC.svg)
