@@ -35,6 +35,6 @@ The detailed analysis could be seen [here](https://github.com/sagnikrana/Portfol
 
 # The Overcrowding and Prolonged Detention of Children and Adults in the Rio Grande Valley(Reporter's perspective):
 
-The condition in the CBP premises in Rio Grande Valley is getting worse at an alarming rate. There is a serious overcrowding and prolonged detention of unaccompanied alien children (UACs), families, and single adults that require immediate attention. According to the sources, there is an increase in about 124% in the numbers since the previous year.
+The condition in the CBP premises in Rio Grande Valley is getting worse at an alarming rate. There is a serious overcrowding and prolonged detention of unaccompanied alien children (UACs), families, and single adults that require immediate attention. According to the sources, there is an increase of about 124% in the total numbers since the previous year.
 
 ![cbp_apprehension](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/CBP%20apprehension.jpg)
