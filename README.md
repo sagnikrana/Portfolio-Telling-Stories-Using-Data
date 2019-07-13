@@ -37,4 +37,4 @@ The detailed analysis could be seen [here](https://github.com/sagnikrana/Portfol
 
 The condition in the CBP premises in Rio Grande Valley is getting worse at an alarming rate. There is a serious overcrowding and prolonged detention of unaccompanied alien children (UACs), families, and single adults that require immediate attention. According to the sources, there is an increase in about 124% in the numbers since the previous year.
 
-<iframe title="Rio Grande Valley Sector Border Patrol Apprehensions" aria-label="Stacked Column Chart" id="datawrapper-chart-BwkUu" src="//datawrapper.dwcdn.net/BwkUu/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="467"></iframe>
+<iframe title="Rio Grande Valley Sector Border Patrol Apprehensions" aria-label="Stacked Column Chart" src="//datawrapper.dwcdn.net/BwkUu/1/" scrolling="no" frameborder="0" style="border: none;" width="700" height="467"></iframe>
