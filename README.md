@@ -50,3 +50,6 @@ Things are getting out of hand for children as Border Patrol’s custody data in
 
 
 ## UHS Reporter's perspective
+
+I would like to apprise you with the fact that the Southern Border is under the heat because of tremendous influx of immigrants without proper documentation. Here are some facts:
+
