@@ -120,3 +120,6 @@ CBP is doing the best what they can, but an immediate Congressional attention an
 For this part, I would like to take the below visualization, which has been taken from this link - https://visual.ly/community/infographic/home/whos-living-together
 
 ![family](https://images.squarespace-cdn.com/content/v1/512b3ac1e4b01fa6748fff20/1453215760527-F3IVBC6FBBZVDOTNXIGV/ke17ZwdGBToddI8pDm48kF79M2C_bhoYMNYQNbpGPCNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz2N2vQkYQ_11XFMMGWtkC5xt-0ihnvgCiF-nafvHv_CLnK8Qr081Fb5HTZknZBxfA/Parts+of+a+whole?format=750w)
+
+
+<script id="infogram_0_1ef9ad7d-77ee-421e-a308-ea3a0a733ba8" title="Family" src="https://e.infogram.com/js/dist/embed.js?LM7" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/1ef9ad7d-77ee-421e-a308-ea3a0a733ba8" style="color:#989898!important;text-decoration:none!important;" target="_blank">Family</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
