@@ -42,11 +42,7 @@ The condition in the CBP premises in Rio Grande Valley is getting worse at an al
 
 On June 10 2019, Border Patrol was holding about 8,000 detainees in custody with 3,400 held longer than the 72 hours. Of those 3,400 detainees, Border Patrol held 1,500 for more than 10 days.This figure clearly violates the TEDS standards.
 
-![detainee_alluvial](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/detainee%20(1).svg)
 
-Things are getting out of hand for children as Border Patrol’s custody data indicates that 826 (31 percent) of the 2,669 children at these facilities had been held longer than the 72 hours. 1,031 UACs held at the Centralized Processing Center in McAllen, TX, 806 had already been processed and were awaiting transfer to HHS custody. Of the 806 that were already processed, 165 had been in custody longer than a week.
-
-![UAC_alluvial](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/UAC.svg)
 <svg width="1000" height="520" xmlns="http://www.w3.org/2000/svg"
 version="1.1"><g transform="translate(0, 10)"><g class="links" fill="none"
 stroke-opacity="0.4"><path
@@ -86,6 +82,11 @@ text-anchor="end">&lt; 72 hours in CBP custody</text></g><g><rect x="497.5"
 y="5.000000000000028" height="319.99999999999994" width="5"
 fill="#000"></rect><text x="491.5" y="165" dy="0.35em"
 text-anchor="end">&gt; 72 hours in CBP custody</text></g></g></g></svg>
+
+Things are getting out of hand for children as Border Patrol’s custody data indicates that 826 (31 percent) of the 2,669 children at these facilities had been held longer than the 72 hours. 1,031 UACs held at the Centralized Processing Center in McAllen, TX, 806 had already been processed and were awaiting transfer to HHS custody. Of the 806 that were already processed, 165 had been in custody longer than a week.
+
+![SVC](https://raw.githubusercontent.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/a3cd38dd32222145e6d962ea628efcc406e03fcc/UAC%20(1).svg)
+
 
 ## UHS Reporter's perspective
 
