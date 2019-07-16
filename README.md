@@ -113,3 +113,10 @@ However, despite all odds, we have achieved to pull back the situation a bit. I 
 
 
 CBP is doing the best what they can, but an immediate Congressional attention and action is required to address the legal and judicial loopholes. Otherwise, CBP expects these issues not only to continue, but escalate at a higher rate, as the loopholes give rise to smuggling and various crimes.
+
+
+## Data Visualization Critique - 2
+
+For this part, I would like to take the below visualization, which has been taken from ![this](https://visual.ly/community/infographic/home/whos-living-together) website
+
+![family](https://images.squarespace-cdn.com/content/v1/512b3ac1e4b01fa6748fff20/1453215760527-F3IVBC6FBBZVDOTNXIGV/ke17ZwdGBToddI8pDm48kF79M2C_bhoYMNYQNbpGPCNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz2N2vQkYQ_11XFMMGWtkC5xt-0ihnvgCiF-nafvHv_CLnK8Qr081Fb5HTZknZBxfA/Parts+of+a+whole?format=750w)
