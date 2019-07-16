@@ -89,12 +89,22 @@ text-anchor="end">&gt; 72 hours in CBP custody</text></g></g></g></svg>
 
 ## UHS Reporter's perspective
 
-I would like to apprise you with the fact that the Southern Border is under the heat because of tremendous influx of immigrants without proper documentation. Here are some facts:
+I would like to apprise you with the fact that the Southern Border is under the heat because of tremendous influx of immigrants without proper documentation. Here are some growing numbers:
 
 
+On May 2019 about 4600 people crossed border illegally daily and this number was just 700 on May 2017. This has presented huge challenge infront of us we are deficit of resources and time to handle these large numbers. On March 2019, there were 103,000 inadmissible people and on April 2019, there were 109,000. These levels were higher more than a decade.
 
+However, despite all odds, we have achieved to pull back the situation a bit. I would like to show you quick numbers here: 
 
+* We have opened 2 new structures between May 2019 and June 2019 with capacity of 500 and planning to open a new one during July 2019
+<br>
+* CBP has obligated over $49 million for medical services for those in custody <br>
+* CBP is taking an average of 77 people per day to hospital since October 2018 <br>
+* Border Patrol Agents has saved thousand of lives while patrolling, from medical situations and socio economic factors.<br>
 
 <script id="infogram_0_e45ff9a6-b494-4c24-8d65-3e3562c1b69f" title="Reporter_DHS" src="https://e.infogram.com/js/dist/embed.js?jJq" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/e45ff9a6-b494-4c24-8d65-3e3562c1b69f" style="color:#989898!important;text-decoration:none!important;" target="_blank">Reporter_DHS</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 ![UAC_June_2019](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/UAC_June_2019.jpg)
+
+
+CBP is doing the best what they can, but an immediate Congressional attention and action is required to address the legal and judicial loopholes. Otherwise, CBP expects these issues not only to continue, but escalate at a higher rate, as the loopholes give rise to smuggling and various crimes.
