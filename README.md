@@ -117,6 +117,6 @@ CBP is doing the best what they can, but an immediate Congressional attention an
 
 ## Data Visualization Critique - 2
 
-For this part, I would like to take the below visualization, which has been taken from ![this](https://visual.ly/community/infographic/home/whos-living-together) website
+For this part, I would like to take the below visualization, which has been taken from this link - https://visual.ly/community/infographic/home/whos-living-together
 
 ![family](https://images.squarespace-cdn.com/content/v1/512b3ac1e4b01fa6748fff20/1453215760527-F3IVBC6FBBZVDOTNXIGV/ke17ZwdGBToddI8pDm48kF79M2C_bhoYMNYQNbpGPCNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz2N2vQkYQ_11XFMMGWtkC5xt-0ihnvgCiF-nafvHv_CLnK8Qr081Fb5HTZknZBxfA/Parts+of+a+whole?format=750w)
