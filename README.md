@@ -38,7 +38,7 @@ The detailed analysis could be seen [here](https://github.com/sagnikrana/Portfol
 
 The condition in the CBP premises in Rio Grande Valley is getting worse at an alarming rate. There is a serious overcrowding and prolonged detention of unaccompanied alien children (UACs), families, and single adults that require immediate attention. According to the sources, there is an increase of about 124% in the total numbers since the previous year.
 
-   ![cbp_apprehension](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/CBP%20apprehension.jpg)
+   ![cbp_apprehension](https://raw.githubusercontent.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/master/CBP%20apprehension.jpg)
 
 On June 10 2019, Border Patrol was holding about 8,000 detainees in custody with 3,400 held longer than the 72 hours. Of those 3,400 detainees, Border Patrol held 1,500 for more than 10 days.This figure clearly violates the TEDS standards.
 
