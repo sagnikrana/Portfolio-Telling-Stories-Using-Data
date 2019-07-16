@@ -47,14 +47,54 @@ On June 10 2019, Border Patrol was holding about 8,000 detainees in custody with
 Things are getting out of hand for children as Border Patrol’s custody data indicates that 826 (31 percent) of the 2,669 children at these facilities had been held longer than the 72 hours. 1,031 UACs held at the Centralized Processing Center in McAllen, TX, 806 had already been processed and were awaiting transfer to HHS custody. Of the 806 that were already processed, 165 had been in custody longer than a week.
 
 ![UAC_alluvial](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/UAC.svg)
-
+<svg width="1000" height="520" xmlns="http://www.w3.org/2000/svg"
+version="1.1"><g transform="translate(0, 10)"><g class="links" fill="none"
+stroke-opacity="0.4"><path
+d="M5,250.00000000000006C251.25,250.00000000000006,251.25,245.00000000000003,497.5,245.00000000000003"
+stroke-width="160" style="stroke: rgb(191, 105, 105);"></path><path
+d="M5,79.99999999999994C251.25,79.99999999999994,251.25,85.00000000000003,497.5,85.00000000000003"
+stroke-width="160" style="stroke: rgb(174, 191, 105);"></path><path
+d="M5,420.00000000000006C251.25,420.00000000000006,251.25,415,497.5,415"
+stroke-width="160" style="stroke: rgb(105, 191, 139);"></path><path
+d="M502.5,245.00000000000003C748.75,245.00000000000003,748.75,420.0000000000001,995,420.0000000000001"
+stroke-width="160" style="stroke: rgb(105, 139, 191);"></path><path
+d="M502.5,85.00000000000003C748.75,85.00000000000003,748.75,80.00000000000003,995,80.00000000000003"
+stroke-width="160" style="stroke: rgb(105, 139, 191);"></path><path
+d="M502.5,415C748.75,415,748.75,250.00000000000009,995,250.00000000000009"
+stroke-width="160" style="stroke: rgb(174, 105, 191);"></path></g><g
+class="nodes" font-family="Arial, Helvetica" font-size="10"><g><rect
+x="995" y="170.00000000000009" height="160" width="5"
+fill="#000"></rect><text x="989" y="250.00000000000009" dy="0.35em"
+text-anchor="end">&lt; 10 days in CBP custody</text></g><g><rect x="995"
+y="2.842170943040401e-14" height="160.00000000000006" width="5"
+fill="#000"></rect><text x="989" y="80.00000000000006" dy="0.35em"
+text-anchor="end">&lt;10 days in CBP custody</text></g><g><rect x="995"
+y="340.0000000000001" height="159.9999999999999" width="5"
+fill="#000"></rect><text x="989" y="420.00000000000006" dy="0.35em"
+text-anchor="end">&gt;10 days in CBP custody</text></g><g><rect x="0"
+y="170.00000000000006" height="160" width="5" fill="#000"></rect><text
+x="11" y="250.00000000000006" dy="0.35em"
+text-anchor="start">1500</text></g><g><rect x="0"
+y="-5.684341886080802e-14" height="160.0000000000001" width="5"
+fill="#000"></rect><text x="11" y="80" dy="0.35em"
+text-anchor="start">1900</text></g><g><rect x="0" y="340.00000000000006"
+height="160" width="5" fill="#000"></rect><text x="11"
+y="420.00000000000006" dy="0.35em"
+text-anchor="start">4600</text></g><g><rect x="497.5" y="335" height="160"
+width="5" fill="#000"></rect><text x="491.5" y="415" dy="0.35em"
+text-anchor="end">&lt; 72 hours in CBP custody</text></g><g><rect x="497.5"
+y="5.000000000000028" height="319.99999999999994" width="5"
+fill="#000"></rect><text x="491.5" y="165" dy="0.35em"
+text-anchor="end">&gt; 72 hours in CBP custody</text></g></g></g></svg>
 
 ## UHS Reporter's perspective
 
 I would like to apprise you with the fact that the Southern Border is under the heat because of tremendous influx of immigrants without proper documentation. Here are some facts:
 
-![UAC_June_2019](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/UAC_June_2019.jpg)
+
 
 
 
 <script id="infogram_0_e45ff9a6-b494-4c24-8d65-3e3562c1b69f" title="Reporter_DHS" src="https://e.infogram.com/js/dist/embed.js?jJq" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/e45ff9a6-b494-4c24-8d65-3e3562c1b69f" style="color:#989898!important;text-decoration:none!important;" target="_blank">Reporter_DHS</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+![UAC_June_2019](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/UAC_June_2019.jpg)
