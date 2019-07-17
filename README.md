@@ -122,4 +122,15 @@ For this part, I would like to take the below visualization, which has been take
 ![family](https://images.squarespace-cdn.com/content/v1/512b3ac1e4b01fa6748fff20/1453215760527-F3IVBC6FBBZVDOTNXIGV/ke17ZwdGBToddI8pDm48kF79M2C_bhoYMNYQNbpGPCNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz2N2vQkYQ_11XFMMGWtkC5xt-0ihnvgCiF-nafvHv_CLnK8Qr081Fb5HTZknZBxfA/Parts+of+a+whole?format=750w)
 
 
+The visualization captures interesting information, about 3 years of different decades. Three decades changes a lot of things, and those are captured really well. The theme looks nice to me, the information is accurate, but the method of visualization is not really good, because the percentage in pie chart is not adding up to 100.
+
+The color and lights commends the theme, but gives a poor outlook at a first sight. This is becasue the heading of the chart - American's desire to have children is very catchy, but the way to visualize is not. It's also difficult to compare the different years because they are not grouped very well. I have stacked them according to the years and would have explaining the things much better now. It resolves two problems at once - The addition of percentages and comparison. Still you can see that all the percentages for a year are not adding up to 100% because tere might be some sampling problem. This provides a solid stance on the collection of data. Eg..2003 is 98% and 2% people might have refused to answer. So this is something which helps me to trust the data.
+
+I believe that the visualization and layout are something that audience should be able to perceive it in single attempt. The less time the audience dedicates to read and glean information, the more effective your graph becomes.
+
+In terms of color, I have used strong blue(highly optimistic) for those who have children, blue(optimistic)  for those who wish to have, grey(backed out) to represent who wished they had, and red(bit negative, with perspective to majority of audience) for those who do not want to have children. 
+
+This color scheme is purely based out of my own intuition I took a bit help from adobe color scheme. Overall, my new visualization does the job and preserves the reputation of a visualization - simple and interpretable.
+
+
 <script id="infogram_0_1ef9ad7d-77ee-421e-a308-ea3a0a733ba8" title="Family" src="https://e.infogram.com/js/dist/embed.js?XRn" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/1ef9ad7d-77ee-421e-a308-ea3a0a733ba8" style="color:#989898!important;text-decoration:none!important;" target="_blank">Family</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
