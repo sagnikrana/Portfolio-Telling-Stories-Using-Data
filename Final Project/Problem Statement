@@ -1,0 +1,47 @@
+Instructions: Final project overview, and Part I
+Final project overview
+The final project will be your opportunity to put everything you've learned so far into action.  A core goal of the final project will be understanding your audience and ensuring you're communicating at an appropriate level, and telling the story using data visualization methods that are meaningful.  
+
+Part I: a project proposal.  An outline of your project, copies of data, an initial sketch of the idea, and the identified method you'll use for presenting. (due 07/24)
+Part II: Wireframes, storyboards, moodboards and user research.  User research and incorporating user feedback. (due 07/31)
+Part III: Final deliverable.  This can be a website, presentation, interactive work, etc.), and should be publicly accessible. (due 08/07)
+Part IV: A final presentation. You'll prepare and present a lightning talk. (08/07)
+Each component will be worth 10% of your grade.  Additional information about the final project will be provided later in the course.
+
+Part I
+For Part I of your final project, you have the opportunity to select a project on a topic that speaks to you and that you believe you can better inform an audience through data visualization.  You'll create an outline of your project, get a working copy of all datasets you'll need for your project, and identify the method and medium you'll use for presenting the information as a final product. 
+
+To complete Part I of your project, create a new Github page within your existing repository.  Document your progress in a new markdown file (e.g. final_project_YourName.md, etc.).  Your document should include the following sections, at a minimum. 
+
+An outline
+The outline of your final project should serve as the building blocks for the rest of your presentation.  You've been introduced to Shorthand (Links to an external site.), one option you have at your disposal for creating your final project deliverable.  Shorthand also has a handy template you can reference for creating an outline of your projectPreview the document.  Your outline should be something that you can later use to help fill in some of the details around your project.  
+
+At a minimum, you should include the following: 
+
+A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
+A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  Talk about the anticipated call to action and outline your user stories. 
+Initial sketches
+We've explored how sketching can be a great way to help solidify your ideas into design choices, and for your proposal you'll be creating sketches that outline your initial thoughts for your final project.  You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion you feel makes the most sense - but they should be clear enough to be understandable to someone that has little to no contextual background for your project.  Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate and you may use whatever method makes the most sense to you (hand-drawn, digital, etc.). 
+
+The data
+It's critical that you identify a data source in the first week.  To be successful in the final project, you'll need to get a copy of the data you'll need for your final project, or recreate it based on various sources.  Make sure in all cases to record your sources and cite these data sources appropriately. 
+
+At a minimum, you should include the following: 
+
+A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Method and medium
+In a few paragraphs, you should document how you plan on completing your final project.  One option we've already discussed is building a story using your data using Shorthand - but this is my no means your only option.  You may select another digital platform (e.g. Esri's Story Maps, etc.), or you may propose doing something else entirely (AR / VR, mixed media, etc.).  If you choose to do something significantly outside of the technologies we've introduced in this course, please talk to me first.  I'd like all final projects to be documented digitally, so if you create something using physical materials  or more immersive, you may need to also create a video recording of your story. 
+
+Finally, for your final project I'd discourage an over-reliance on PowerPoint slides. If you need to use a few slides to frame the context of your final project presentation (a pitch deck) that's ok - but your Powerpoint slides alone are not sufficient in meeting the requirements of the final project deliverable.  Your final project deliverable must be an interactive, stand-alone project (e.g. something you've created using Shorthand or another platform) that won't require a future employer clicking through yet another PowerPoint deck. 
+
+When you're done, submit the link to your Github final project page with all the necessary elements noted above. 
+
+Thinking outside the box
+Thinking forward to your final presentation, you may be interested in experimenting with these:
+
+Soundcite: seamless inline audio (Links to an external site.) from Knight lab.
+
+https://scene.knightlab.com (Links to an external site.) - VR from photos.
+
+https://twxplorer.knightlab.com/ (Links to an external site.) - Twitter explorer.
