@@ -43,9 +43,9 @@ Here are few of the visualizations which I aim to establish:
 
 
 
+![Project_Outline](https://raw.githubusercontent.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/master/Final%20Project/Images/0001.jpg)
 
-
-Here are few of the data sources and they are present in the data folder of this repository as well.<br>
+Here are few of the data sources: <br>
 
 Institute of Health Metrics and Evaluation (IHME) Global Burden of Disease (GBDx) Data Tool
 Data: Number of deaths and death rates from household air pollution
