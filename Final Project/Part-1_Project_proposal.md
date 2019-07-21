@@ -16,9 +16,23 @@ Below are few of the diseases which occur due to indoor house pollution:
 * chronic obstructive pulmonary disease (COPD), and
 * lung cancer.
 
-In this project, I will be discussing some facts about the indoor pollution and will try to present it as interesting story.
+In this project, I will be discussing some facts(below) about the indoor pollution and will try to present it as interesting story.
 
-
+* Countries which use solid fuels: 
+    Which parts of world are still using the solid fuels as their main sourse of energy needs and how it has changed over th     e time. This relationship will help us to understand the current trend.
+    
+* Cooking technologies over the time.
+    We will see how the cooking technologies have changed over the time in terms of moving towards a more clean fuel.
+    
+* Deaths:
+    How many deaths have occured in the affected countries and what are the numbers around the world.
+    
+* Correlations:
+    We will discuss the below relationships:
+        - Relationship between the income level and dependency on solid fuels
+        - Dependency on solid fuels: rural vs. urban
+        - Number of deaths related between indoor and outdoor households
+        - Indoor air pollution in the context of outdoor pollution
 
 
 
