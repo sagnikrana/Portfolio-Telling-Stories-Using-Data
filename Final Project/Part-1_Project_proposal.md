@@ -1,13 +1,22 @@
 ## Overview - Indoor Air pollution
 
+### Outline:
 
+If you are using natural gas or electricity to cook your food, consider your self lucky than the two billion people who depend on solid fuels for their cooking activities and generic energy needs.
 
+Cooking and heating with solid fuels on open fires or traditional stoves results in high levels of indoor air pollution. 
 
+The generated indoor smoke contains health-damaging pollutants, such as carbon monoxide, and the pollution levels may be 20 times higher than accepted level in many cases.<br>
+According to the World Health Report 2002 indoor air pollution is responsible for 2.7% of the global burden of disease.<br>
+At present time, WHO is working on solid grounds to reduce the diseases and mitigate the risks by educating the masses to move towards the conventional energy sources in high-mortality developing countries.<br>
+Below are few of the diseases which occur due to indoor house pollution:
+* pneumonia
+* stroke
+* ischaemic heart disease
+* chronic obstructive pulmonary disease (COPD), and
+* lung cancer.
 
-
-
-
-
+In this project, I will be discussing some facts about the indoor pollution and will try to present it as interesting story.
 
 
 
