@@ -47,24 +47,24 @@ Here are few of the visualizations which I aim to establish:
 
 Here are few of the data sources: <br>
 
-Institute of Health Metrics and Evaluation (IHME) Global Burden of Disease (GBDx) Data Tool
-Data: Number of deaths and death rates from household air pollution
-Geographical coverage: Global- by country
-Time span: 1990 to 2016
-Available at: http://www.healthdata.org/results/data-visualizations
+Institute of Health Metrics and Evaluation (IHME) Global Burden of Disease (GBDx) Data Tool<br>
+Data: Number of deaths and death rates from household air pollution<br>
+Geographical coverage: Global- by country<br>
+Time span: 1990 to 2016<br>
+Available at: http://www.healthdata.org/results/data-visualizations<br>
 
-World Health Organization, Global Health Observatory (GHO)
-Data: Use of solid fuels and burden of disease
-Geographical coverage: Global- by country and region
-Time span: 2012-2013
-Available at: http://apps.who.int/gho/data/node.main.133?lang=en
+World Health Organization, Global Health Observatory (GHO)<br>
+Data: Use of solid fuels and burden of disease<br>
+Geographical coverage: Global- by country and region<br>
+Time span: 2012-2013<br>
+Available at: http://apps.who.int/gho/data/node.main.133?lang=en<br>
 
-World Health Organization (WHO)
-Data: Household (indoor) air pollution factsheet
-Available at: http://www.who.int/features/qa/indoor-air-pollution/en/
+World Health Organization (WHO)<br>
+Data: Household (indoor) air pollution factsheet<br>
+Available at: http://www.who.int/features/qa/indoor-air-pollution/en/<br>
 
-Food and Agricultural Organization (FAO)
-Data: Forestry data on wood fuel for countries and world regions since 1961.
-Geographical coverage: Global- by country
-Time span: 1990-2015
-Available at: http://www.fao.org/faostat/en/#data/FO
+Food and Agricultural Organization (FAO)<br>
+Data: Forestry data on wood fuel for countries and world regions since 1961.<br>
+Geographical coverage: Global- by country<br>
+Time span: 1990-2015<br>
+Available at: http://www.fao.org/faostat/en/#data/FO<br>
