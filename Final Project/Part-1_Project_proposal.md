@@ -18,23 +18,26 @@ Below are few of the diseases which occur due to indoor house pollution:
 
 In this project, I will be discussing some facts(below) about the indoor pollution and will try to present it as interesting story.
 
-* Countries which use solid fuels: 
+* Countries which use solid fuels: <br>
     Which parts of world are still using the solid fuels as their main sourse of energy needs and how it has changed over th     e time. This relationship will help us to understand the current trend.
     
-* Cooking technologies over the time.
+* Cooking technologies over the time.<br>
     We will see how the cooking technologies have changed over the time in terms of moving towards a more clean fuel.
     
-* Deaths:
+* Deaths:<br>
     How many deaths have occured in the affected countries and what are the numbers around the world.
     
-* Correlations:
-    We will discuss the below relationships:
+* Correlations:<br>
+    We will discuss the below relationships:<br>
         - Relationship between the income level and dependency on solid fuels
         - Dependency on solid fuels: rural vs. urban
         - Number of deaths related between indoor and outdoor households
         - Indoor air pollution in the context of outdoor pollution
 
 
+Hopefully, this will be an interesting journey and we will try to figure out the correlations and relationships between different factors, which will enroute the authorities towards a correct dimension of the next course of action.
+
+Here are few of the visualizations which I aim to establish:
 
 
 
@@ -42,9 +45,7 @@ In this project, I will be discussing some facts(below) about the indoor polluti
 
 
 
-
-
-
+Here are few of the data sources and they are present in the data folder of this repository as well.<br>
 
 Institute of Health Metrics and Evaluation (IHME) Global Burden of Disease (GBDx) Data Tool
 Data: Number of deaths and death rates from household air pollution
