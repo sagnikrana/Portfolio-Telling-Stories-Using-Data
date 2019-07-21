@@ -29,10 +29,10 @@ In this project, I will be discussing some facts(below) about the indoor polluti
     
 * Correlations:<br>
     We will discuss the below relationships:<br>
-        - Relationship between the income level and dependency on solid fuels
-        - Dependency on solid fuels: rural vs. urban
-        - Number of deaths related between indoor and outdoor households
-        - Indoor air pollution in the context of outdoor pollution
+        - Relationship between the income level and dependency on solid fuels<br>
+        - Dependency on solid fuels: rural vs. urban<br>
+        - Number of deaths related between indoor and outdoor households<br>
+        - Indoor air pollution in the context of outdoor pollution<br>
 
 
 Hopefully, this will be an interesting journey and we will try to figure out the correlations and relationships between different factors, which will enroute the authorities towards a correct dimension of the next course of action.
