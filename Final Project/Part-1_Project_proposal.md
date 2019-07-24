@@ -49,19 +49,16 @@ Here are few of the data sources: <br>
 
 Institute of Health Metrics and Evaluation (IHME) Global Burden of Disease (GBDx) Data Tool<br>
 Data: Number of deaths and death rates from household air pollution<br>
-Geographical coverage: Global- by country<br>
 Time duration: 1990 to 2016<br>
 Link: http://www.healthdata.org/results/data-visualizations<br>
 
 Food and Agricultural Organization (FAO)<br>
 Data: Forestry data on wood fuel for countries and world regions since 1961.<br>
-Geographical coverage: Global- by country<br>
 Time duration: 1990-2015<br>
 Link: http://www.fao.org/faostat/en/#data/FO<br>
 
 World Health Organization, Global Health Observatory (GHO)<br>
 Data: Use of solid fuels and burden of disease<br>
-Geographical coverage: Global- by country and region<br>
 Time duration: 2012-2013<br>
 Link: http://apps.who.int/gho/data/node.main.133?lang=en<br>
 
