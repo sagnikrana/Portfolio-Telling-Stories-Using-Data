@@ -12,7 +12,7 @@ I believe the ability to tell stories with data needs special skill. I am expect
 I feel that visualization, more or less, is like google. The less time we spend in it to glean information, the more valuable it becomes.<br> I hope after taking this course, I will be able to take my visualization skills to one more step ahead.<br>
 Here is the vizualisation for one of my projects, where I utilized 3-D cluster modelling to achieve best attributes in a machine learning model:
 <br><br>
-![3dcluster](Assignemnt3/giphy.gif)
+![3dcluster](Assignment3/giphy.gif)
 
 
 # Assignment-1:
