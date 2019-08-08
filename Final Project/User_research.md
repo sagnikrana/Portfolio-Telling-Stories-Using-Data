@@ -76,6 +76,3 @@ Person 3 identified that one of the maps regarding the deaths due to indoor air 
 * Thought about the end result in a deeper way.
 * Re-written the description for few visualizations.
 * Completed the data wrangling and came up with fewer regions in the world.
-
-
-<iframe src = "https://public.tableau.com/views/Indoorairpollution/Worldsaccesstocleanfuels-Map-2016?:showVizHome=no&:embed=true"></iframe>
