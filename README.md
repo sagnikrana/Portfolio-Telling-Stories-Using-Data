@@ -12,7 +12,7 @@ I believe the ability to tell stories with data needs special skill. I am expect
 I feel that visualization, more or less, is like google. The less time we spend in it to glean information, the more valuable it becomes.<br> I hope after taking this course, I will be able to take my visualization skills to one more step ahead.<br>
 Here is the vizualisation for one of my projects, where I utilized 3-D cluster modelling to achieve best attributes in a machine learning model:
 <br><br>
-![3dcluster](Assignment3/giphy.gif)
+![3dcluster](Images_and_files/giphy.gif)
 
 
 # Assignment-1:
@@ -22,7 +22,7 @@ Here is the vizualisation for one of my projects, where I utilized 3-D cluster m
 In this assignment, we are critiquing this [article](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/The%20metamorphosis%20-%20The%20Labour%20Party%20.pdf) where the current situation about british politics has been discussed. As per the good charts book, I have re-designed the graph and produced this graph [here](https://www.datawrapper.de/_/HVp6G/)
 <br>
 
-![image](Datawrapper.jpg)
+![image](Images_and_files/Datawrapper.jpg)
 
 Improvements:
 The main focus has been put over Jeremy Corbyn and how much importance he has over all major parties. My new diagram is small, which will allow it to appear in media(such as newspaper). The political parties are separated from the politicians which gives a good edge to the readers. The numbers are present, which will further help us to judge the metrics.
