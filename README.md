@@ -110,7 +110,7 @@ However, despite all odds, we have achieved to pull back the situation a bit. I 
 <br>
 <br>
 
-![UAC_June_2019](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/UAC_June_2019.jpg?raw=true)
+![UAC_June_2019](https://github.com/sagnikrana/Portfolio-Telling-Stories-Using-Data/blob/master/Images_and_files/UAC_June_2019.jpg?raw=true)
 
 
 CBP is doing the best what they can, but an immediate Congressional attention and action is required to address the legal and judicial loopholes. Otherwise, CBP expects these issues not only to continue, but escalate at a higher rate, as the loopholes give rise to smuggling and various crimes. Let's hope that the governing political party will do something to sooth the ailing conditions.
